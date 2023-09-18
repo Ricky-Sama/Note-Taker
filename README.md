@@ -13,11 +13,12 @@
 
 ## Usage
 This application is called Note Taker that can be used to write and save notes. 
+[Deployed Application Link](https://easy-note-taker-application-39c0c4503c26.herokuapp.com/)
 
 The following image shows the command-line application's appearance and functionality:
 
 ## Mock-Up
-![screenshot of logo](./screenshots/127-0-0-1-5500-logo-svg.png)
+![screenshot of logo](./assets/Note-Taker.png)
 
 ## Contact
 * Name - Ricardo Scuotto
