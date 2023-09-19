@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-
+This application is called Note Taker that can be used to write and save notes. It was developed using  NodeJS, JSON, Express, and Heroku.
 ## Table of Contents
 * [Usage](#usage)
 * [Contact-Me](#contact)
@@ -12,7 +12,9 @@
 
 
 ## Usage
-This application is called Note Taker that can be used to write and save notes. 
+Click on the application link below and begin taking notes!
+
+## Deployed Application Link:
 [Deployed Application Link](https://easy-note-taker-application-39c0c4503c26.herokuapp.com/)
 
 The following image shows the command-line application's appearance and functionality:
@@ -27,3 +29,4 @@ The following image shows the command-line application's appearance and function
 ## Contributors
 N/A
 ## Testing
+N/A
