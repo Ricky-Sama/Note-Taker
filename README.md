@@ -1,5 +1,7 @@
 # Note Taker
 
+![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+
 ## Description
 This application is called Note Taker that can be used to write and save notes. It was developed using  NodeJS, JSON, Express, and Heroku.
 ## Table of Contents
@@ -7,7 +9,6 @@ This application is called Note Taker that can be used to write and save notes. 
 * [Contact-Me](#contact)
 * [Contributors](#contributors)
 * [Testing](#testing)
-
 * [License](#license)
 
 
@@ -30,3 +31,6 @@ The following image shows the command-line application's appearance and function
 N/A
 ## Testing
 N/A
+## License
+
+        Licensed under the MIT license.
